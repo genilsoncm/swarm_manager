@@ -55,11 +55,11 @@ case $option in
 
         ;;
 
-	2) LIST_CONFIG=`sudo docker config ls`
-       clear
-       echo "Listing settings in docker swarm..."
-       echo ""
-       echo  "$LIST_CONFIG"
+    2) LIST_CONFIG=`sudo docker config ls`
+          clear
+          echo "Listing settings in docker swarm..."
+          echo ""
+          echo  "$LIST_CONFIG"
 
 
         ;;
