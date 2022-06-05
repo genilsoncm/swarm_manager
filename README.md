@@ -6,7 +6,7 @@ Shell Script que tem como objetivo simplicar o gerecimento de serviços e config
 **Utilização:** 
 
 ```
-$ git clone xxxxxxx
+$ git clone https://github.com/genilsoncm/swarm_manager.git
 ```
 ```
 $ cd swarm_manager
