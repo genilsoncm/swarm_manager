@@ -11,6 +11,13 @@ $ git clone xxxxxxx
 ```
 $ cd swarm_manager
 ```
+Definir os nomes das variáveis de acordo com seu ambiente. 
+
 ```
-$ ./manager_swarm
+$ vim manager_swarm.sh
+```
+NAME_STACK="xxxxxxx"
+NAME_YML="xxxxxxx.yml"
+```
+$ ./manager_swarm.sh
 ```
